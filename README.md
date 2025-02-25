@@ -103,22 +103,3 @@ I'm studying at FPT University.
         </td>
     </tr>
 </table>
-
-<style>
-  body {
-    background-color: #1c1c1c;
-    color: #ffffff;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: #0891b2;
-  }
-  a {
-    color: #0891b2;
-  }
-  table {
-    width: 100%;
-  }
-  td {
-    padding: 10px;
-  }
-</style>
