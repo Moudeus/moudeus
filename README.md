@@ -1,17 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Son, you can call me by nickname moudeus
-==============================================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Son, you can call me by nickname moudeus
 
-Web Developer
--------------
+## Web Developer
 
 I'm studying at FPT University.
 
-* 🌍  I'm based in Da Nang City
-* ✉️  You can contact me at [namson1821@gmail.com](mailto:namson1821@gmail.com)
-* 🧠  I'm learning Java
+- 🌍  I'm based in Da Nang City
+- ✉️  You can contact me at [namson1821@gmail.com](mailto:namson1821@gmail.com)
+- 🧠  I'm learning Java
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -58,7 +55,6 @@ I'm studying at FPT University.
 </a>
 </p>
 
-
 ### Socials
 
 <p align="left">
@@ -88,11 +84,11 @@ I'm studying at FPT University.
 </p>
 
 ## Stats
+
 <table>
     <tr>
         <td>
           <img src="https://github-trophies.vercel.app/?username=moudeus&theme=onestar&row=3&column=4" alt="moudeus" />
-        </td>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=moudeus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" />
@@ -103,7 +99,7 @@ I'm studying at FPT University.
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moudeus&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false=Top%20%Languages" alt="Top Languages" />
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=moudeus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+            <img src="https://github-contributor-stats.vercel.app/api?username=Moudeus&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
         </td>
     </tr>
 </table>
